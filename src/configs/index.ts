@@ -1,0 +1,1 @@
+export { listEmoji } from "./emojiList";
